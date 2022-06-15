@@ -1,3 +1,3 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nzour&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/nzour)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nzour&layout=compact&show_icons=true&theme=tokyonight&langs_count=3)](https://github.com/nzour)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nzour&show_icons=true&theme=tokyonight)](https://github.com/nzour)
